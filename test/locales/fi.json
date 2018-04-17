@@ -1,0 +1,13 @@
+{
+  "head": {
+    "title": "Hevoskauppa"
+  },
+  "component": {
+    "heading": "Myynnissä",
+    "note": "Vain parasta tarjolla",
+    "link": {
+      "url": "http://www.google.fi",
+      "title": "Google.fi"
+    }
+  }
+}

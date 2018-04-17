@@ -1,0 +1,13 @@
+{
+  "head": {
+    "title": "Hästbutik"
+  },
+  "component": {
+    "heading": "Till salu",
+    "note": "Bara det bästa",
+    "link": {
+      "url": "http://www.google.se",
+      "title": "Google.se"
+    }
+  }
+}

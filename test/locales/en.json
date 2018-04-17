@@ -1,0 +1,13 @@
+{
+  "head": {
+    "title": "Horse Dealership"
+  },
+  "component": {
+    "heading": "For sale",
+    "note": "Only the best",
+    "link": {
+      "url": "http://www.google.com",
+      "title": "Google.com"
+    }
+  }
+}
