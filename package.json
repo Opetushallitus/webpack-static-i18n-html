@@ -20,7 +20,7 @@
   "license": "MIT",
   "homepage": "https://github.com/Kalifi/webpack-static-i18n-html#readme",
   "dependencies": {
-    "static-i18n": "^0.1.24"
+    "static-i18n": "^0.2.1"
   },
   "devDependencies": {
     "babel-jest": "^22.4.3",
